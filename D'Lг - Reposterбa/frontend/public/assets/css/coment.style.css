@@ -1,0 +1,39 @@
+.coment {
+  width: 100%;
+  height: 100vh;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.coment{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 20px;
+}
+@media (max-width: 768px){
+    .coment{
+        grid-template-columns: 1fr;
+    }
+}
+.fa-star {
+  font-size: 32px;
+  color: gray;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+.fa-star.checked {
+  color: gold;
+}
+
+#nameInput,
+#commentInput,
+#submitButton {
+  margin-top: 10px;
+  width: 200px;
+}

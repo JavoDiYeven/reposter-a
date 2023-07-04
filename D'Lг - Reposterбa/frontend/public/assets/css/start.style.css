@@ -1,0 +1,27 @@
+.inicio {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: #8d5a5a;
+}
+  
+.inicio h2 {
+  font-size: 28px;
+  margin-bottom: 7px;
+  color: #fff;
+}
+
+.inicio p {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+
+.inicio h3 {
+  font-size: 20px;
+  margin-bottom: 7px;
+  color:#fff;
+}
+  
