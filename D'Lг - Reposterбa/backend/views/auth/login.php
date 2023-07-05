@@ -5,6 +5,7 @@
   <title>Login</title>
   <link rel="stylesheet" href="assets/css/login.style.css">
   <link href="https://fonts.googleapis.com/css?family=Assistant:400,700" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="assets/js/login.js"></script>
 </head>
 <body>
@@ -12,6 +13,7 @@
   <div class='head'>
   <h1 class='company'>D'Lú</h1>
   </div>
+  <div id="reps-ajax"></div>
   <p class='msg'>Bienvenid@</p>
   <div class='form'>
     <form>

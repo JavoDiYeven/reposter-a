@@ -26,20 +26,30 @@
           <a class="nav-link" href="#">Contacto</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            ADMIN pages
+          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" alt="Administrar Paginas Principales">
+            Admin.Pag.
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
             <li><a class="dropdown-item" href="#">Inicio</a></li>
             <li><a class="dropdown-item" href="#">Nosotros</a></li>
-            <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Productos</a></li>
-            <li><a class="dropdown-item" href="#">Comentarios</a></li>
           </ul>
+        </li>
+        <li>
+          <a class="bi bi-power" href="../../../frontend/public/index.php">Cerrar Sesion</a>
         </li>
     </div>
   </div>
 </nav>
+<main>
+  
+</main>
     </div>
+<footer>
+  <div id="sfcwqrdckf3y1b6cqf36hfynbgt7g2daq4p"></div>
+  <script type="text/javascript" src="https://counter3.optistats.ovh/private/counter.js?c=wqrdckf3y1b6cqf36hfynbgt7g2daq4p&down=async" async></script>
+  <noscript><a href="https://www.contadorvisitasgratis.com" title="contadores de visitas gratis">
+  <img src="https://counter3.optistats.ovh/private/contadorvisitasgratis.php?c=wqrdckf3y1b6cqf36hfynbgt7g2daq4p" border="0" title="contadores de visitas gratis" alt="contadores de visitas gratis"></a></noscript>
+</footer>
 </body>
 </html>

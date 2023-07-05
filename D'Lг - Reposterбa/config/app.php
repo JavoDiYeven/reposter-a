@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user_mysql = "id20564043_javier";
-$pass_mysql = "";
+$pass_mysql = "Laura#180819";
 $db = "id20564043_dlu_db";
 
 define("HOST", $host);
